@@ -1,0 +1,2 @@
+# defenderforcloudapps
+casb architectural considerations
